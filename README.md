@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi everyone, I'm Angelo 👋
 
-<!--
-**AngeloSFV2001/AngeloSFV2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=AngeloSFV2001.AngeloSFV2001)
+<br />
+
+![Github Stats Angelo Fabara](https://github-readme-stats.vercel.app/api?username=AngeloSFV2001&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AngeloSFV2001&layout=compact&theme=tokyonight&langs_count=10)
+
+- 💬 Contact me as @AngeloSFV2001
